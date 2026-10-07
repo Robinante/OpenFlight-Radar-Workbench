@@ -8,7 +8,7 @@
           <mxGeometry height="410" width="390" x="655" y="345" as="geometry" />
         </mxCell>
         <mxCell id="EKOypoMbrkPnxt4nfSe2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="Display" vertex="1">
-          <mxGeometry height="130" width="330" x="685" y="120" as="geometry" />
+          <mxGeometry height="130" width="330" x="685" y="145" as="geometry" />
         </mxCell>
         <mxCell id="EKOypoMbrkPnxt4nfSe2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="Camera" vertex="1">
           <mxGeometry height="130" width="230" x="275" y="335" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="200" width="200" x="1194.5" y="651" as="geometry" />
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="GeekWorm&lt;br&gt;X1202/X1206/DualPD" vertex="1">
-          <mxGeometry height="200" width="200" x="750" y="850" as="geometry" />
+          <mxGeometry height="200" width="200" x="750" y="825" as="geometry" />
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=48;fontFamily=Verdana;" value="OpenFlight Block Diagram" vertex="1">
           <mxGeometry height="30" width="689" x="505.5" y="41" as="geometry" />
