@@ -1,17 +1,32 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Rn-Aer_j6LGx3XVovKkp">
-    <mxGraphModel dx="1460" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EKOypoMbrkPnxt4nfSe2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="EKOypoMbrkPnxt4nfSe2-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Raspberry Pi 5" vertex="1">
           <mxGeometry height="410" width="390" x="655" y="345" as="geometry" />
         </mxCell>
-        <mxCell id="EKOypoMbrkPnxt4nfSe2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="130" width="330" x="685" y="40" as="geometry" />
+        <mxCell id="EKOypoMbrkPnxt4nfSe2-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Display" vertex="1">
+          <mxGeometry height="130" width="330" x="685" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="EKOypoMbrkPnxt4nfSe2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="130" width="230" x="330" y="40" as="geometry" />
+        <mxCell id="EKOypoMbrkPnxt4nfSe2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Camera" vertex="1">
+          <mxGeometry height="130" width="230" x="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SEN14262" vertex="1">
+          <mxGeometry height="60" width="120" x="1200" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LISD3H" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;OPS243A&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="340" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IWR6843LEVM" vertex="1">
+          <mxGeometry height="200" width="200" x="1160" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GeekWorm&lt;br&gt;X1202/X1206/DualPD" vertex="1">
+          <mxGeometry height="200" width="200" x="1160" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
