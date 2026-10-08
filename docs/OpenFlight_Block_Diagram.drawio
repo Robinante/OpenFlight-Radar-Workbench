@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Rn-Aer_j6LGx3XVovKkp">
-    <mxGraphModel dx="751" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,13 +21,32 @@
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-23" edge="1" parent="1" source="EKOypoMbrkPnxt4nfSe2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#FFFF33;strokeWidth=3;" target="EKOypoMbrkPnxt4nfSe2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kz-SNUR1Rucf-UmCRVUV-37" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="DSI" vertex="1">
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-37" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CSI" vertex="1">
           <mxGeometry relative="1" x="0.6427" y="3" as="geometry">
             <mxPoint x="24" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EKOypoMbrkPnxt4nfSe2-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="Camera" vertex="1">
           <mxGeometry height="130" width="230" x="275" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-47" edge="1" parent="1" source="kz-SNUR1Rucf-UmCRVUV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;strokeColor=light-dark(#FF8000,#FF8000);" target="kz-SNUR1Rucf-UmCRVUV-3">
+          <mxGeometry relative="1" x="0.1145" as="geometry">
+            <Array as="points">
+              <mxPoint x="229.7" y="655" />
+              <mxPoint x="229.7" y="129.8" />
+              <mxPoint x="1244.5" y="129.8" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-49" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GATE" vertex="1">
+          <mxGeometry relative="1" x="-0.947" y="2" as="geometry">
+            <mxPoint x="25" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-50" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;" value="HOST_INT" vertex="1">
+          <mxGeometry relative="1" x="0.9386" y="6" as="geometry">
+            <mxPoint x="-17" y="22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="SEN14262" vertex="1">
           <mxGeometry height="60" width="120" x="330" y="625" as="geometry" />
@@ -93,7 +112,7 @@
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-35" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GPIO" vertex="1">
           <mxGeometry relative="1" x="0.7756" y="-7" as="geometry">
-            <mxPoint x="17" y="-16" as="offset" />
+            <mxPoint x="18" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-36" connectable="0" parent="kz-SNUR1Rucf-UmCRVUV-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GPIO" vertex="1">
@@ -121,7 +140,7 @@
             <mxPoint x="1045" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kz-SNUR1Rucf-UmCRVUV-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="FTDI" vertex="1">
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" value="FTDI" vertex="1">
           <mxGeometry height="30" width="60" x="1528" y="520" as="geometry" />
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-46" edge="1" parent="1" source="kz-SNUR1Rucf-UmCRVUV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#6600CC;" target="kz-SNUR1Rucf-UmCRVUV-45" value="">
@@ -130,7 +149,7 @@
             <mxPoint x="1044" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kz-SNUR1Rucf-UmCRVUV-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="FTDI" vertex="1">
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;" value="FTDI" vertex="1">
           <mxGeometry height="35" width="60" x="1528" y="572" as="geometry" />
         </mxCell>
       </root>
