@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Rn-Aer_j6LGx3XVovKkp">
-    <mxGraphModel dx="710" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,24 @@
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fontFamily=Lucida Console;fontSize=11;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;labelBackgroundColor=default;" value="FTDI" vertex="1">
           <mxGeometry height="35" width="60" x="1528" y="572" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-64" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="List" vertex="1">
+          <mxGeometry height="180" width="454" x="63" y="788" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-65" parent="kz-SNUR1Rucf-UmCRVUV-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="&lt;span&gt;GPIO / header wiring&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="454" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-66" parent="kz-SNUR1Rucf-UmCRVUV-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="&lt;span&gt;USB&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="454" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-67" parent="kz-SNUR1Rucf-UmCRVUV-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="&lt;span&gt;CSI / DSI ribbon&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="454" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-68" parent="kz-SNUR1Rucf-UmCRVUV-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="&lt;span&gt;Power&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="454" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-69" parent="kz-SNUR1Rucf-UmCRVUV-64" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" value="&lt;span&gt;Legacy / deprecated&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="454" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
