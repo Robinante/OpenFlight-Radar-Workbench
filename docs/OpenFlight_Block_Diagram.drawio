@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Rn-Aer_j6LGx3XVovKkp">
-    <mxGraphModel dx="1334" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Lucida Console;fontSize=20;fontColor=#333333;fontStyle=1;align=center;verticalAlign=middle;labelBorderColor=none;labelBackgroundColor=none;" value="GeekWorm&lt;br&gt;X1202/X1206/DualPD" vertex="1">
           <mxGeometry height="200" width="200" x="750" y="805" as="geometry" />
         </mxCell>
-        <mxCell id="kz-SNUR1Rucf-UmCRVUV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=48;fontFamily=Lucida Console;" value="OpenFlight Block Diagram" vertex="1">
+        <mxCell id="kz-SNUR1Rucf-UmCRVUV-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=48;fontFamily=Lucida Console;fontStyle=1;horizontal=1;" value="OpenFlight Block Diagram" vertex="1">
           <mxGeometry height="30" width="834.5" x="432.75" y="50" as="geometry" />
         </mxCell>
         <mxCell id="kz-SNUR1Rucf-UmCRVUV-41" edge="1" parent="1" source="kz-SNUR1Rucf-UmCRVUV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=3;strokeColor=#6600CC;" target="EKOypoMbrkPnxt4nfSe2-1">
